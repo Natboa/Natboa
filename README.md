@@ -8,7 +8,7 @@
 
 ## 📢 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/gilboa-nathan/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]((https://www.linkedin.com/in/gilboa-nathan/))
 
 
 ## 🛠️ Technologies & Tools
