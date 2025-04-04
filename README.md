@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-### I'm [Your Name], a Software Engineering student passionate about learning, building, and collaborating on real-world projects.
+### I'm Gilboa, a Software Engineering student passionate about learning, building, and collaborating on real-world projects.
 
 - 💻 I enjoy working with C, Python, Java, and shell scripting
 - 🚀 Always eager to take on new challenges and grow through hands-on experience
@@ -8,7 +8,7 @@
 
 ## 📢 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/gilboa-nathan/))
 
 
 ## 🛠️ Technologies & Tools
