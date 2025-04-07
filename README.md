@@ -31,7 +31,6 @@ A simple C program that fills a grid with letters A–Z using a random walk algo
 ### 🧮 Tkinter Calculator
 A graphical calculator app built in Python using Tkinter. It performs standard operations and includes a unique feature to estimate how many weeks you have left to live based on your age.
 
-## 🪄 A rule I stand by
 ---
 
 > 💭 **"Don't call it a dream, call it a plan."**  
