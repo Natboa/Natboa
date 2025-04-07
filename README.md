@@ -34,4 +34,11 @@ A graphical calculator app built in Python using Tkinter. It performs standard o
 ---
 
 > 🚧 Always learning. Always building.
+>
+> ---
+
+> 💭 **"Don't call it a dream, call it a plan."**  
+> — *Future You*
+
+---
 
