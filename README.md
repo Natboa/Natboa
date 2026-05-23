@@ -14,13 +14,16 @@
 
 ## 📂 Projects
 
+### [RadioV2](https://github.com/Natboa/RadioV2)
+A lightweight desktop application for discovering, browsing, and streaming internet radio stations using a sleek Fluent Design interface. Built with WPF and EF Core.
+
+### [RadioV2-Android](https://github.com/Natboa/RadioV2-Android)
+The mobile companion to the RadioV2 desktop app. Discover and stream tens of thousands of internet radio stations on your phone, Android Auto, or Android TV. Built with Flutter.
+
+### [Attend: Meditation Aid](https://github.com/Natboa/Attend-Meditation-Aid)
+A minimal meditation timer and mindfulness companion for Android. Features flexible session timers, scheduled mindfulness bells, and a library of 289 wisdom poems (gathas). Built with Flutter.
+
 ### 🔧 Custom Linux Shell
 A Linux shell implemented in C with built-in commands like encryption, merging, unmerging, and history tracking. Developed to explore process management, user input handling, and system calls.
 
----
-
-> 💭 **"Don't call it a dream, call it a plan."**  
-> — *Future You*
-
----
 
