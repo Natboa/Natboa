@@ -23,7 +23,7 @@ The mobile companion to the RadioV2 desktop app. Discover and stream tens of tho
 ### [Attend: Meditation Aid](https://github.com/Natboa/Attend-Meditation-Aid)
 A minimal meditation timer and mindfulness companion for Android. Features flexible session timers, scheduled mindfulness bells, and a library of 289 wisdom poems (gathas). Built with Flutter.
 
-### 🔧 Custom Linux Shell
+### [Linux Shell](https://github.com/Natboa/Linux-Shell)
 A Linux shell implemented in C with built-in commands like encryption, merging, unmerging, and history tracking. Developed to explore process management, user input handling, and system calls.
 
 
