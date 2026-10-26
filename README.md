@@ -1,32 +1,64 @@
-# 👋 Hello there!
+# Hi, I'm Natboa
 
-### I'm Natboa, a Software Engineering student passionate about learning, building, and collaborating on real-world projects.
+I build radio apps, terrain posters, and practical developer tools.
 
-## 🛠️ Technologies & Tools
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+Software Engineering student at Braude Academic College. My projects span desktop and mobile apps, graphics, and automation.
 
----
+## Shaded Relief Maps — Poster Maker
 
-## 📂 Projects
+Turn a place into a printable 3D terrain poster. Elevation data and satellite imagery become a lit relief in Blender, with optional roads, place names, trip pins, and routes.
 
-### [RadioV2](https://github.com/Natboa/RadioV2)
-A lightweight desktop application for discovering, browsing, and streaming internet radio stations using a sleek Fluent Design interface. Built with WPF and EF Core.
+<a href="https://mapyourtrip.vercel.app">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/terrain-still.jpg">
+    <img src="assets/terrain-workflow.gif" alt="Illustrated workflow: elevation data and satellite imagery become a 3D relief poster, alongside an actual Alps render." width="100%">
+  </picture>
+</a>
 
-### [RadioV2-Android](https://github.com/Natboa/RadioV2-Android)
-The mobile companion to the RadioV2 desktop app. Discover and stream tens of thousands of internet radio stations on your phone, Android Auto, or Android TV. Built with Flutter.
+**Python · Blender · Geospatial data**<br>
+[Try the trip planner and poster maker](https://mapyourtrip.vercel.app)
 
-### [Attend: Meditation Aid](https://github.com/Natboa/Attend-Meditation-Aid)
-A minimal meditation timer and mindfulness companion for Android. Features flexible session timers, scheduled mindfulness bells, and a library of 289 wisdom poems (gathas). Built with Flutter.
+## RadioV2 — Windows & Android
 
-### [Shaded Relief Maps — Poster Maker](https://mapyourtrip.vercel.app)
-Turn any region into a print-resolution 3D terrain poster using elevation data and satellite imagery. Supports roads, place names, trip pins, and routes, with an automated rendering pipeline built with Python and Blender.
+Discover and stream internet radio across desktop, phone, Android Auto, and Android TV. Browse by genre, save favourites, and keep listening in the background.
 
-### [Linux Shell](https://github.com/Natboa/Linux-Shell)
-A Linux shell implemented in C with built-in commands like encryption, merging, unmerging, and history tracking. Developed to explore process management, user input handling, and system calls.
+<a href="https://github.com/Natboa/RadioV2-Android">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/radio-mobile.jpg">
+    <img src="assets/radio.jpg" alt="RadioV2 Android app displayed inside black smartphone mockups with Back, Home, and Recent Apps buttons." width="100%">
+  </picture>
+</a>
 
+**Windows: C# · .NET · WPF · EF Core**<br>
+[Download for Windows](https://github.com/Natboa/RadioV2/releases) · [Windows source](https://github.com/Natboa/RadioV2)
 
+<details>
+<summary>See the Windows desktop app</summary>
+<br>
+<img src="assets/radio-desktop.jpg" alt="RadioV2 for Windows: genre discovery, station artwork, favourites, and playback controls." width="100%">
+</details>
+
+**Android: Flutter · Dart · Riverpod**<br>
+[Download for Android / TV](https://github.com/Natboa/RadioV2-Android/releases) · [Android source](https://github.com/Natboa/RadioV2-Android)
+
+## Attend — Meditation Aid
+
+A quiet companion for meditation: flexible session timers, scheduled mindfulness bells, and 289 wisdom poems from five traditions. No account required.
+
+<a href="https://github.com/Natboa/Attend-Meditation-Aid">
+  <img src="assets/attend.jpg" alt="Attend's illustrated meditation logo and its features: meditation timer, mindfulness bells, and 289 wisdom poems." width="100%">
+</a>
+
+**Flutter · Dart · Riverpod**<br>
+[Download for Android](https://github.com/Natboa/Attend-Meditation-Aid/releases) · [Source](https://github.com/Natboa/Attend-Meditation-Aid)
+
+## More things I've built
+
+- **[Browser Video Recorder](https://github.com/Natboa/browser-video-recorder)** — An agent skill that saves browser-only course videos and lectures as local MP4 files using OBS on Windows.
+- **[Linux Shell](https://github.com/Natboa/Linux-Shell)** — A custom shell in C with command history, encryption, and file merging, exploring processes and system calls.
+
+## Tools I build with
+
+**Apps:** Flutter · Dart · C# · .NET · WPF · EF Core<br>
+**Visual tools:** Python · Blender<br>
+**Foundations:** C · Java · Git · Linux · Bash
