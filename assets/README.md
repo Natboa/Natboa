@@ -10,3 +10,5 @@
 The still images are browser-rendered compositions. The GIF has a still fallback when the reader requests reduced motion. Public profile artwork intentionally excludes local paths and source-image metadata.
 
 Radio source screenshots: [Windows](https://github.com/Natboa/RadioV2/tree/main/Assets/screenshots), [Android](https://github.com/Natboa/RadioV2-Android/tree/main/assets/images/screenshots).
+
+- `video-recorder.jpg`: unchanged banner from [Browser Video Recorder's README](https://github.com/Natboa/browser-video-recorder), originally `docs/banner.jpg`. Git blob SHA: `224f8511bcd88da8f10555f3c2bad0bf3e34a2e0`.

@@ -52,9 +52,19 @@ A quiet companion for meditation: flexible session timers, scheduled mindfulness
 **Flutter · Dart · Riverpod**<br>
 [Download for Android](https://github.com/Natboa/Attend-Meditation-Aid/releases) · [Source](https://github.com/Natboa/Attend-Meditation-Aid)
 
+## Browser Video Recorder — Agent Skill
+
+Save browser-only lectures, course replays, and webinars as local MP4 files for offline viewing. Give your agent a course link: it finds the videos, downloads what the site offers, and records the rest unattended with OBS Studio.
+
+<a href="https://github.com/Natboa/browser-video-recorder">
+  <img src="assets/video-recorder.jpg" alt="Browser Video Recorder banner: a browser video is recorded with OBS and saved as an MP4 file for offline viewing." width="100%">
+</a>
+
+**Agent Skills · Python · OBS Studio · Windows**<br>
+[Install the skill](https://github.com/Natboa/browser-video-recorder#install) · [Source and documentation](https://github.com/Natboa/browser-video-recorder)
+
 ## More things I've built
 
-- **[Browser Video Recorder](https://github.com/Natboa/browser-video-recorder)** — An agent skill that saves browser-only course videos and lectures as local MP4 files using OBS on Windows.
 - **[Linux Shell](https://github.com/Natboa/Linux-Shell)** — A custom shell in C with command history, encryption, and file merging, exploring processes and system calls.
 
 ## Tools I build with
