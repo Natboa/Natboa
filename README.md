@@ -10,8 +10,8 @@ Turn a place into a printable 3D terrain poster. Elevation data and satellite im
 
 <a href="https://mapyourtrip.vercel.app">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/terrain-still.jpg">
-    <img src="assets/terrain-workflow.gif" alt="Illustrated workflow: elevation data and satellite imagery become a 3D relief poster, alongside an actual Alps render." width="100%">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/titicaca-poster.jpg">
+    <img src="assets/titicaca-process.gif" alt="Lake Titicaca: the actual Google map with trip pins and route crossfades to its satellite imagery, then to the finished 3D terrain poster." width="100%">
   </picture>
 </a>
 
